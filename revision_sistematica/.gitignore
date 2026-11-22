@@ -1,0 +1,13 @@
+# Archivos locales de R y RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+
+# Archivos del sistema y temporales
+.DS_Store
+__MACOSX/
+Thumbs.db
+~$*
+*.tmp
